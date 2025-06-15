@@ -23,7 +23,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [GitHub](https://github.com/rizkicaandra/social-links-profile)
-- Live Site URL: [Live Demo](https://thriving-frangipane-e32101.netlify.app)
+- Live Site URL: [Live Demo](https://simple-recipe-pagee.netlify.app/)
 
 ## My process
 
